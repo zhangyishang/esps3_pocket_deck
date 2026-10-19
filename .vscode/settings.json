@@ -1,0 +1,12 @@
+{
+  "idf.currentSetup": "E:\\ESP_IDF\\v5.5.4\\esp-idf",
+  "idf.customExtraVars": {},
+  "clangd.path": "/home/maxiaotiao/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/home/maxiaotiao/桌面/project/esp_handheld/build"
+  ],
+  "idf.port": "COM9",
+  "idf.flashType": "UART"
+}
